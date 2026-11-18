@@ -174,7 +174,7 @@ div.section-page {
 section.hero-banner {
   color: var(--light-color);
   background: var(--accent-color);
-  font-size: 2.3rem;
+  font-size: 2rem;
   line-height: 1.5;
   padding-top: 4em;
   padding-bottom: 4em;
@@ -450,6 +450,7 @@ code {
 .text-base { font-size: 1rem; }
 .text-sm { font-size: .875rem; }
 .text-2xl { font-size: 1.5rem }
+.text-5xl { font-size: 3rem }
 
 .text-start {
   text-align: start;
